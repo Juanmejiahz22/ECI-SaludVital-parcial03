@@ -10,21 +10,19 @@ ECI salud vital es un programa dirigido pra gestionar citas medicas segun especi
 Segun los datos del paciente se crea una cita para realizar un registro y eventualmente estara en el historial de este.
 ![image](https://github.com/user-attachments/assets/22261c08-f3fb-4afb-837a-04a23b1b4916)
 
-## Gestión de horarios
+## Gestión de especialidades
 
-Configuración flexible: Definición de horarios para todos los espacios y servicios
-Franjas personalizables: Control de duración, intervalos y disponibilidad
-Gestión de pausas: Registro de tiempos no disponibles (almuerzos, reuniones)
-Visualización integral: Consulta por espacio o por responsable
+Se abre el campo donde a partir de las especialidades existentes el usuario puede registrar su cita, esto segun los datos de la especialidad.
+![image](https://github.com/user-attachments/assets/ecf68fba-b650-403a-a272-400828f0da37)
 
-## Para Funcionarios de Bienestar
+
+## Para Funcionarios de SaludVital
 
 -- Gestión personal limitada:
 
-Actualizar sus propios datos personales
-Visualizar su historial de actividad
-Configurar sus horarios de disponibilidad (con aprobación)
-Gestionar sus propias pausas
+Visualizar su historial de los pacientes
+Asignar sus horarios de disponibilidad 
+Gestionar citas creadas.
 
 
 -- Visualización de información:
@@ -40,19 +38,19 @@ Consultar horarios por responsable (solo lectura)
       - En astah
 
 ´´
-<img width="443" alt="Captura de pantalla 2025-05-14 a la(s) 6 15 53 p m" src="" />
+
 ´´
 
 ´´
-<img width="557" alt="Captura de pantalla 2025-05-14 a la(s) 6 16 07 p m" src="" />
+
 ´´
 
 
 ## Flujos de Trabajo Principales
--- Registro de Nuevo Usuario
+-- Registro de cita
 
-Administrador accede a la opción "Registrar Usuario"
-Selecciona tipo de usuario (Estudiante, Funcionario, etc.)
+Usuario accede a la opción "Registrar cita"
+Selecciona tipo de especialidades.
 Completa todos los campos requeridos según el tipo
 
 
@@ -68,8 +66,8 @@ Define día de la semana y franjas horarias disponibles
   ´´
 Frontend: HTML, CSS, JavaScript, React
 Backend: Java, Spring Boot
-Base de Datos: 
-Seguridad:
+Base de Datos: MongoDB
+
   ´´
 
 ## Instalación y Configuración
