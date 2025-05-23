@@ -43,7 +43,8 @@ Consultar horarios por responsable (solo lectura)
       - En astah
 - Diagrama de clases
 ´´
-![image](https://github.com/user-attachments/assets/0f2d4172-e87b-4381-b342-2f5fd92ee0a5)
+![image](https://github.com/user-attachments/assets/b62fb709-18e2-4cba-965a-3dcdba38e396)
+
 
 ´´
 - Diagrama de componentes
