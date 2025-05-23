@@ -7,12 +7,14 @@ ECI salud vital es un programa dirigido pra gestionar citas medicas segun especi
 -- Características Principales--
 
 ## Gestión de citas
-Segun los datos del paciente se crea una cita para realizar un registro y eventualmente estara en el historial de este.
+-Segun los datos del paciente se crea una cita para realizar un registro y eventualmente estara en el historial de este.
+
 ![image](https://github.com/user-attachments/assets/22261c08-f3fb-4afb-837a-04a23b1b4916)
 
 ## Gestión de especialidades
 
-Se abre el campo donde a partir de las especialidades existentes el usuario puede registrar su cita, esto segun los datos de la especialidad.
+-Se abre el campo donde a partir de las especialidades existentes el usuario puede registrar su cita, esto segun los datos de la especialidad.
+
 ![image](https://github.com/user-attachments/assets/ecf68fba-b650-403a-a272-400828f0da37)
 
 
