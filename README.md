@@ -39,13 +39,14 @@ Consultar horarios por responsable (solo lectura)
 
 
 
-## Diagrama de Casos de Uso
+## Diagramas
       - En astah
+- Diagrama de clases
+´´
+![image](https://github.com/user-attachments/assets/0f2d4172-e87b-4381-b342-2f5fd92ee0a5)
 
 ´´
-
-´´
-
+- Diagrama de componentes
 ´´
 
 ´´
