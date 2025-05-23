@@ -1,0 +1,4 @@
+com\example\ECIsaludvital\controller\ApiController.class
+com\example\ECIsaludvital\EcIsaludvitalApplication.class
+com\example\ECIsaludvital\repository\EspecialidadRepository.class
+com\example\ECIsaludvital\model\Especialidad.class
