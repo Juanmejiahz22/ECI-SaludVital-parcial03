@@ -48,6 +48,7 @@ Consultar horarios por responsable (solo lectura)
 ´´
 - Diagrama de componentes
 ´´
+![image](https://github.com/user-attachments/assets/14232445-db68-4653-a33e-d06e7f7cb733)
 
 ´´
 
