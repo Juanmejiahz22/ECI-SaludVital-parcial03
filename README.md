@@ -3,7 +3,7 @@
 ## Descripción
 
 ECI salud vital es un programa dirigido pra gestionar citas medicas segun especialidad y donde los usuarios ademas de poder agendar sus citas medicas podran visualizar sus citas previas siguiendo un historial.
-
+En este repostitorio se veran las partes del backend de ECI salud vital.
 ## Creacion de proyecto en Springboot
 ![image](https://github.com/user-attachments/assets/169ab1df-d915-4a7e-b61b-c3472a427331)
 
