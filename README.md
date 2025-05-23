@@ -41,11 +41,11 @@ Consultar horarios por responsable (solo lectura)
       - En astah
 
 ´´
-<img width="443" alt="Captura de pantalla 2025-05-14 a la(s) 6 15 53 p m" src="https://github.com/user-attachments/assets/8c5106ec-8901-4d95-a18a-72bd424b1ebe" />
+<img width="443" alt="Captura de pantalla 2025-05-14 a la(s) 6 15 53 p m" src="" />
 ´´
 
 ´´
-<img width="557" alt="Captura de pantalla 2025-05-14 a la(s) 6 16 07 p m" src="https://github.com/user-attachments/assets/65d67580-2a52-4632-b87c-c671b9776272" />
+<img width="557" alt="Captura de pantalla 2025-05-14 a la(s) 6 16 07 p m" src="" />
 ´´
 
 
